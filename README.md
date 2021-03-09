@@ -21,3 +21,6 @@ Models I used are:
   <li>Logistic Regression</li>
   <li>CatBoost Classifier</li>
 </ul>
+
+
+Logistic Regression proved the best for now with 88% score. (Ironically for Classifier problem even if it's name is 'Regression')
