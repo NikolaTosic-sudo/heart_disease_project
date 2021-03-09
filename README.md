@@ -6,15 +6,16 @@ This is my first Machine Learning project I did. Still have not exported the Mac
 Exported a environment I used for you to freely import it if you want to see what I did.
 
 <ul>
-  In this project I used: 
+In this project I used: 
 
-  <li>* pandas</li>
-  <li>* matplotlib</li>
-  <li>* scikit-learn</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>scikit-learn</li>
 </ul>
 
 <ul>
-  Models I used are:
+Models I used are:
+  
   <li>KNearest Neighbor</li>
   <li>Random Forest Classifier</li>
   <li>Logistic Regression</li>
